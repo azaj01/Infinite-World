@@ -1,6 +1,4 @@
-<h1 align="center">Infinite-World</h1>
-
-<h3 align="center">Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory</h3>
+<h1 align="center">[ICML 2026] | Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory</h1>
 
 <p align="center">
   <a href="http://arxiv.org/abs/2602.02393"><img src="https://img.shields.io/badge/arXiv-2602.02393-b31b1b.svg" alt="arXiv"></a>
